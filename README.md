@@ -98,7 +98,7 @@ A modern web browser with HTML5 Canvas and WebGL support (e.g., Google Chrome, M
 
 ## Credits
 
-Developed by **Team Bomb Squad**.
+Designed and developed by **Kalidas kj & christy abraham**.
 
 ## License
 
